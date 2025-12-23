@@ -4,8 +4,7 @@
   <p>
     <em>Crafting tools I use in my day to day</em>
   </p>
-
-  [![GitHub followers](https://img.shields.io/github/followers/najdshad?style=social)](https://github.com/najdshad)
+  
 </div>
 
 ---
@@ -44,20 +43,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=najdshad&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=najdshad&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najdshad&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
-
-### 🤝 Let's Connect
 
 <div align="center">
   
