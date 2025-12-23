@@ -9,11 +9,7 @@
 
 ---
 
-### About Me
-
-- 💻 Currently exploring native android app development
-- 🌱 Learning something new every day
-- 💡 Open to collaboration
+- 💻 Currently exploring native android development
 
 ---
 
