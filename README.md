@@ -23,21 +23,21 @@
   
   **Languages**
   
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
   
   ![English](https://img.shields.io/badge/English-555555?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMCAwaDUxMnY1MTJIMHoiLz48cGF0aCBmaWxsPSIjMDEyMTY5IiBkPSJNNTUuNSAwaDQwMXY1MTJoLTQwMXoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNTUuNSAwaDQwMXYyNTZoLTQwMXoiLz48L3N2Zz4=&logoColor=white)
   
   **Tools**
   
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   
-  ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+  [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
   
-  ![OpenCode](https://img.shields.io/badge/opencode.ai-4A90E2?style=for-the-badge&logoColor=white)
+  [![OpenCode](https://img.shields.io/badge/opencode.ai-4A90E2?style=for-the-badge&logoColor=white)](https://opencode.ai/)
   
-  ![Omarchy](https://img.shields.io/badge/omarchy.org-008080?style=for-the-badge&logoColor=white)
+  [![Omarchy](https://img.shields.io/badge/omarchy.org-008080?style=for-the-badge&logoColor=white)](https://omarchy.org/)
   
 </div>
 
