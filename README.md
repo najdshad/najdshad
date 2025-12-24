@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Nice of you to come see me</h1>
+  <h1>Coding at speed of thought</h1>
   
   <p>
     <em>Crafting tools I use in my day to day</em>
