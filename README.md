@@ -9,7 +9,7 @@
 
 ---
 
-- 💻 Currently exploring native android development
+- 💻 Currently exploring systems programming and native android development.
 
 ---
 
